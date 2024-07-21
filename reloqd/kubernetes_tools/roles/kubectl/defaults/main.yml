@@ -1,0 +1,7 @@
+---
+# defaults file for roles/kubectl
+# version of kubectl
+kubectl_version: []
+
+# path file for kubeconfig
+kubeconfig_path: []
